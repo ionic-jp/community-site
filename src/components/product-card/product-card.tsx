@@ -15,7 +15,7 @@ export class AppHome {
           return (
             <ion-img
               src={`${
-                this.product.image ? this.product.image : "assets/blank.png"
+                this.product.image ? this.product.image : "/assets/images/blank.png"
               }`}
               alt=""
             />

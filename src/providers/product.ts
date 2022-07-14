@@ -49,7 +49,7 @@ export const productData: IProduct[] = [
   },
   {
     name: "食後のタイマー",
-    image: "./assets/blank.png",
+    image: "/assets/images/blank.png",
     description: "食後の時間で健康管理 - 歯磨き、睡眠、断食...",
     author: "@papuujp",
     websiteUrl: "https://savaps.com/after-meal-timer-application/",
@@ -92,7 +92,7 @@ export const productData: IProduct[] = [
   },
   {
     name: "UpDown Timer",
-    image: "./assets/blank.png",
+    image: "/assets/images/blank.png",
     description:
       "使い方は簡単、タッチして時分秒を設定し、スタートボタンを押すだけ。 あとはゲージが減っていくので、残り時間が一目瞭然。 アラーム音も太鼓やドラなどいろいろ選べます。",
     author: "@papuujp",
@@ -108,7 +108,7 @@ export const productData: IProduct[] = [
   },
   {
     name: "勉強タイマー: 勉強に集中したい人におすすめのポモドーロ　タイマー",
-    image: "./assets/blank.png",
+    image: "/assets/images/blank.png",
     description:
       "勉強が長く続かない−−。』 そんな悩みを減らすための、勉強用のタイマーです。ポモドーロ　テクニックという集中と休憩を繰り返す方法があるのですが、 このタイマーを使うと、ポモドーロ　テクニックを利用して勉強に集中することができます。",
     author: "@papuujp",
