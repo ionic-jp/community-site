@@ -1025,5 +1025,19 @@ export const productData: IProduct[] = [
         "https://play.google.com/store/apps/details?id=jp.monokrom.wemodel.android",
       web: ""
     }
+  },
+  {
+    name: "kanau",
+    image: "https://storage.googleapis.com/production-os-assets/assets/5b2838b5-6e85-4623-a9f5-421e2ed4b7bb",
+    description: "『つくる人』のための計算メモ帳",
+    author: "さとうあまみ",
+    websiteUrl: "https://kanau.app/",
+    country: "JP",
+    platform: {
+      ios: "https://apps.apple.com/jp/app/kanau/id1561118621",
+      android:
+        "https://play.google.com/store/apps/details?id=app.kanau.kanau",
+      web: "https://app.kanau.app/"
+    }
   }
 ];
